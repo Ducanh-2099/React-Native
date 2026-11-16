@@ -87,7 +87,7 @@ Hiển thị thông tin chi tiết của game, hình ảnh, mô tả và phần 
 <img width="336" height="596" alt="image" src="https://github.com/user-attachments/assets/9266bd0c-b081-4928-b05f-bde66371f8a8" />
 
 
-<img width="339" height="593" alt="image" src="https://github.com/user-attachments/assets/3905ef94-d9d5-491f-8df1-573c993d1a42" />
+<img width="331" height="569" alt="image" src="https://github.com/user-attachments/assets/06ae0910-8d37-4762-a4c2-82e261803332" />
 
 
 ### 4.6. AddGame.js – Thêm trò chơi
