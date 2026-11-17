@@ -9,17 +9,6 @@
 
 ## 2. Link ứng dụng Expo
 
-# BÀI TẬP 01 – MYAPP_V2
-
-## 1. Thông tin bài tập
-
-- **Tên bài nộp:** MyApp_V2
-- **Tên ứng dụng:** Game Library
-- **Công nghệ sử dụng:** React Native, Expo
-- **Ngôn ngữ:** JavaScript
-
-## 2. Link ứng dụng Expo
-
 https://snack.expo.dev/@ducanh-cdcntt18a/myapp_v2
 
 ## 3. Giới thiệu ứng dụng
