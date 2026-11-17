@@ -7,9 +7,7 @@
 
 ## 2. Link ứng dụng Expo
 
-Dán link ứng dụng Expo Snack tại đây:
-
-https://snack.expo.dev/...
+https://snack.expo.dev/@ducanh-cdcntt18a/learningapp
 
 ## 3. Các component đã xây dựng
 
