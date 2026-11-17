@@ -58,8 +58,7 @@ export default function ProductCard({ product }) {
 
 ### Giao diện chính
 
-<img width="338" height="651" alt="image" src="https://github.com/user-attachments/assets/0e1dee3c-75b7-45bc-9d74-e149359a47dd" />
-
+<img width="397" height="656" alt="image" src="https://github.com/user-attachments/assets/98e6aae8-2940-4790-8c95-4d577cf97319" />
 
 ### Component Header
 
@@ -67,25 +66,15 @@ export default function ProductCard({ product }) {
 
 <img width="609" height="608" alt="image" src="https://github.com/user-attachments/assets/8ebe6b75-87ab-4f12-9fb0-38f7c084b35e" />
 
-
 ### Component ProductCard
 
 <img width="157" height="277" alt="image" src="https://github.com/user-attachments/assets/6b1324b8-b4a2-4375-a15b-9c1ec2a943e8" />
 
 <img width="944" height="658" alt="image" src="https://github.com/user-attachments/assets/3032d2cd-aca5-4c1f-89c0-90ffebd79295" />
 
-
 ### Component ProductList
 
 <img width="932" height="637" alt="image" src="https://github.com/user-attachments/assets/43fc31c9-11d5-47f8-8705-3a7995411e13" />
 
-
-
 <img width="933" height="424" alt="image" src="https://github.com/user-attachments/assets/55c8e873-1d57-4109-b8ff-c2d2748b7ebd" />
 
-
-## 7. Kết luận
-
-Qua bài tập này, em đã thực hành xây dựng giao diện ứng dụng React Native, biết cách chia component, truyền dữ liệu bằng props và sử dụng FlatList để hiển thị danh sách sản phẩm.
-
-Ứng dụng có giao diện bán thiết bị công nghệ với 6 sản phẩm, đầy đủ hình ảnh, tên, giá và mô tả.
