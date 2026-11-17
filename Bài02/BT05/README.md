@@ -1,7 +1,7 @@
 
 # Bt05 - AnimateApp
 
-## 1. Công nghệ sử dụng
+## 1. Công cụ sử dụng
 - React Native
 - JavaScript
 - useState
